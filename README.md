@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/786952810691821601)](https://discord.com/users/786952810691821601)
+
 <!--
 **hefatss/hefatss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
